@@ -1,0 +1,5 @@
+<package>
+	<!-- Macros -->
+	<file>tex/context/third/algorithmic/t-algorithmic.mkii</file>
+	<file>tex/context/third/algorithmic/t-algorithmic.mkiv</file>
+</package>
